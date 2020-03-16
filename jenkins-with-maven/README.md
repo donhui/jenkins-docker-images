@@ -10,7 +10,7 @@
 - Maven（版本：3.6.3）
 
 ## 插件列表
-插件列表详见 `plugins.txt`
+插件列表详见 [plugins.txt](plugins.txt)
 
 ## 管理员账号和密码
 管理员账号密码：admin/9YxwvCOUPML8onXF
