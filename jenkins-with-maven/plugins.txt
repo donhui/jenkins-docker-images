@@ -1,0 +1,4 @@
+git:4.2.2
+workflow-aggregator:2.6
+configuration-as-code:1.36
+localization-zh-cn:1.0.13
